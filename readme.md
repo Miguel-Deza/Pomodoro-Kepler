@@ -2,7 +2,7 @@
 
 Pomodoro Kepler es una extensión diseñada especialmente para estudiantes de Academia-Kepler y cualquier persona que quiera mejorar su enfoque y productividad. Inspirado en la técnica Pomodoro, este temporizador de estudio divide el tiempo en bloques de trabajo y descanso, optimizando tu concentración y ayudándote a evitar el agotamiento.
 
-![Demo de Pomodoro Kepler](./Demo.gif)
+![How to install](./How-to-install.gif)
 
 ## Características
 
@@ -19,4 +19,6 @@ Pomodoro Kepler es una extensión diseñada especialmente para estudiantes de Ac
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Si deseas mejorar Pomodoro Kepler, siéntete libre de enviar un pull request.
+
+
 
